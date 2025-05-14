@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ns2:RespuestaAutorizacion xsi:type="ns2:autorizacion" xmlns:ns2="http://ec.gob.sri.ws.autorizacion" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <estado>AUTORIZADO</estado>
+    <numeroAutorizacion>1205202501099210689100120850520007476481234567814</numeroAutorizacion>
+    <fechaAutorizacion>2025-05-12T16:06:29-05:00</fechaAutorizacion>
+    <ambiente>PRODUCCIÓN</ambiente>
+    <comprobante>&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;&lt;factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="2.1.0"&gt;&lt;infoTributaria&gt;&lt;ambiente&gt;2&lt;/ambiente&gt;&lt;tipoEmision&gt;1&lt;/tipoEmision&gt;&lt;razonSocial&gt;DULCAFE S A&lt;/razonSocial&gt;&lt;nombreComercial&gt;SWEET  &amp;amp;  COFFEE&lt;/nombreComercial&gt;&lt;ruc&gt;0992106891001&lt;/ruc&gt;&lt;claveAcceso&gt;1205202501099210689100120850520007476481234567814&lt;/claveAcceso&gt;&lt;codDoc&gt;01&lt;/codDoc&gt;&lt;estab&gt;085&lt;/estab&gt;&lt;ptoEmi&gt;052&lt;/ptoEmi&gt;&lt;secuencial&gt;000747648&lt;/secuencial&gt;&lt;dirMatriz&gt;Av. Carlos Julio Arosemena Km. 1 Solar 43&lt;/dirMatriz&gt;&lt;/infoTributaria&gt;&lt;infoFactura&gt;&lt;fechaEmision&gt;12/05/2025&lt;/fechaEmision&gt;&lt;dirEstablecimiento&gt;CALLE NUMA POMPILLO, EDIFICIO SOTAVENTO&lt;/dirEstablecimiento&gt;&lt;contribuyenteEspecial&gt;1477&lt;/contribuyenteEspecial&gt;&lt;obligadoContabilidad&gt;SI&lt;/obligadoContabilidad&gt;&lt;tipoIdentificacionComprador&gt;05&lt;/tipoIdentificacionComprador&gt;&lt;razonSocialComprador&gt;DANIEL CARPIO&lt;/razonSocialComprador&gt;&lt;identificacionComprador&gt;0940820772&lt;/identificacionComprador&gt;&lt;totalSinImpuestos&gt;11.48&lt;/totalSinImpuestos&gt;&lt;totalDescuento&gt;0.00&lt;/totalDescuento&gt;&lt;totalConImpuestos&gt;&lt;totalImpuesto&gt;&lt;codigo&gt;2&lt;/codigo&gt;&lt;codigoPorcentaje&gt;4&lt;/codigoPorcentaje&gt;&lt;baseImponible&gt;11.4800&lt;/baseImponible&gt;&lt;tarifa&gt;15&lt;/tarifa&gt;&lt;valor&gt;1.7200&lt;/valor&gt;&lt;/totalImpuesto&gt;&lt;/totalConImpuestos&gt;&lt;propina&gt;0.00&lt;/propina&gt;&lt;importeTotal&gt;13.20&lt;/importeTotal&gt;&lt;moneda&gt;DOLAR&lt;/moneda&gt;&lt;pagos&gt;&lt;pago&gt;&lt;formaPago&gt;16&lt;/formaPago&gt;&lt;total&gt;13.20&lt;/total&gt;&lt;plazo&gt;0&lt;/plazo&gt;&lt;unidadTiempo&gt;dias&lt;/unidadTiempo&gt;&lt;/pago&gt;&lt;/pagos&gt;&lt;/infoFactura&gt;&lt;detalles&gt;&lt;detalle&gt;&lt;codigoPrincipal&gt;467&lt;/codigoPrincipal&gt;&lt;codigoAuxiliar&gt;1102V&lt;/codigoAuxiliar&gt;&lt;descripcion&gt;CAPPUCCINO 8OZ&lt;/descripcion&gt;&lt;cantidad&gt;6&lt;/cantidad&gt;&lt;precioUnitario&gt;1.9130&lt;/precioUnitario&gt;&lt;descuento&gt;0.0000&lt;/descuento&gt;&lt;precioTotalSinImpuesto&gt;11.4800&lt;/precioTotalSinImpuesto&gt;&lt;impuestos&gt;&lt;impuesto&gt;&lt;codigo&gt;2&lt;/codigo&gt;&lt;codigoPorcentaje&gt;4&lt;/codigoPorcentaje&gt;&lt;tarifa&gt;15.000&lt;/tarifa&gt;&lt;baseImponible&gt;11.4800&lt;/baseImponible&gt;&lt;valor&gt;1.7200&lt;/valor&gt;&lt;/impuesto&gt;&lt;/impuestos&gt;&lt;/detalle&gt;&lt;/detalles&gt;&lt;infoAdicional&gt;&lt;campoAdicional nombre="CORREO 1"&gt;carpiordaniel@gmail.com&lt;/campoAdicional&gt;&lt;campoAdicional nombre="LOCAL"&gt;PUERTO SANTA ANA&lt;/campoAdicional&gt;&lt;campoAdicional nombre="Gran Contribuyente"&gt;GRAN CONTRIBUYENTE MEDIANTE RESOLUCIÓN NAC-AGCOGEC22-00000805-M&lt;/campoAdicional&gt;&lt;/infoAdicional&gt;&lt;ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1024714"&gt;
+&lt;ds:SignedInfo Id="Signature-SignedInfo135596"&gt;
+&lt;ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/&gt;
+&lt;ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/&gt;
+&lt;ds:Reference Id="SignedPropertiesID369174" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature1024714-SignedProperties187792"&gt;
+&lt;ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/&gt;
+&lt;ds:DigestValue&gt;A+r9/x3ctru90aLeeY9PF+4W5VE=&lt;/ds:DigestValue&gt;
+&lt;/ds:Reference&gt;
+&lt;ds:Reference URI="#Certificate1653023"&gt;
+&lt;ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/&gt;
+&lt;ds:DigestValue&gt;ErEru9kG/AXuhwDhEUxISezzRHY=&lt;/ds:DigestValue&gt;
+&lt;/ds:Reference&gt;
+&lt;ds:Reference Id="Reference-ID-507119" URI="#comprobante"&gt;
+&lt;ds:Transforms&gt;
+&lt;ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/&gt;
+&lt;/ds:Transforms&gt;
+&lt;ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/&gt;
+&lt;ds:DigestValue&gt;X1my7YqZxAs4NZ2vKX2DDVpUev4=&lt;/ds:DigestValue&gt;
+&lt;/ds:Reference&gt;
+&lt;/ds:SignedInfo&gt;
+&lt;ds:SignatureValue Id="SignatureValue216944"&gt;
+tl6W0X1j6oxmTm/RU9W9KS+4IUqoQwCq/pOn50+7y4/IyPwHGMT97QsQ31hhY2bOleXXTcjDiJN8
+hS3HBHoV/gco8MN+EXHvAYuiRXhwhaOc7f451a6loocm8qRxKMlXv0ooIQsV6xihkV1hSDpcbifd
+M4QfpaE+64hRD1Vp9ZoiKWE6DnpZSnL2frj9bWF7jEI6fKk0+XHfWRCO+Yeb1gMxny3GpsPULwWL
+wwxOodLLb1pBwOrjLQRHnpQYPcdICLk3ZfA4g4jlnxsoTZnwfJY8oKI+HGIPcSrqzegtyggQYEU/
+YxjLHaCWku4rkSrkykFRAe5yMt6VCwtVAbpWbA==
+&lt;/ds:SignatureValue&gt;
+&lt;ds:KeyInfo Id="Certificate1653023"&gt;
+&lt;ds:X509Data&gt;
+&lt;ds:X509Certificate&gt;
+MIIJoTCCB4mgAwIBAgIIZHnB5HWrPXQwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMTAwMjIwMjUwMFoXDTI1MTAwMTIwMjUwMFowgcsxCzAJBgNVBAYTAkVDMRUwEwYDVQQKDAxE
+VUxDQUZFIFMuQS4xGDAWBgNVBAwMD0dFUkVOVEUgR0VORVJBTDETMBEGA1UEBAwKUEVFVCBMQVJH
+RTEYMBYGA1UEKgwPUklDSEFSRCBBTlRIT05ZMRkwFwYDVQQFExBJRENFQy0wOTA4NjgxODkzMSMw
+IQYDVQQDDBpSSUNIQVJEIEFOVEhPTlkgUEVFVCBMQVJHRTEcMBoGA1UEYQwTVkFURUMtMDk5MjEw
+Njg5MTAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALuDyDPei8yo0me733b2ItTK
+5TIoFrkyK/5sBMXQ2ErdN5hhQpMW14bt0VyAv1rhk48MbzMWkpagJAoCVrAKxRrnyG6D8xLag24O
+SeJmRlUwSLkyAH6Zt4yARK4NO0jo7eB/jJQsG5KqPoLlS2WZD9tZI7GCQDfS9+AtV9I/nz0AlYwT
+4Q1u67AAmQHLgdqksFBlaulI+BOWfLHlVNsMF+DKOo0MzWZ9KMJuaFSfOKN1Aela0N+O9STJKYCr
+yTvRHi8yoTFJcPuIlYPRHOGpdfqDRj4cbTgmxqca5FiZucc9HKU1UoZ4gwU79g3Yxcwllkdn+zcm
+xYBwHk8zROKHHLkCAwEAAaOCBJgwggSUMBsGCysGAQQBgvE2ZgMBBAwMCjA5MDg2ODE4OTMwHgYL
+KwYBBAGC8TZmAwsEDwwNMDk5MjEwNjg5MTAwMTCB1wYIKwYBBQUHAQEEgcowgccwVQYIKwYBBQUH
+MAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3dubG9hZC90c3BfY2VydGlmaWNh
+dGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMS51YW5hdGFjYS5j
+b20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AyLnVhbmF0YWNhLmNv
+bS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBQf7GPNkuVnbJqGDRPd026JXKKmTTAMBgNVHRMB
+Af8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9MIGOBgNVHSAEgYYwgYMwgYAG
+DCsGAQQBgvE2ZgIDATBwMDcGCCsGAQUFBwIBFitodHRwczovL3d3dy51YW5hdGFjYS5jb20vcHVi
+bGljL3BraS9kcGMtZWMvMDUGCCsGAQUFBwICMCkMJ0NFUlRJRklDQURPIERFIFJFUFJFU0VOVEFO
+VEUgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpodHRwOi8vY3JsMS51YW5hdGFjYS5j
+b20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMECgPqA8hjpodHRwOi8vY3JsMi51
+YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB/wQE
+AwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggHZBgNVHREEggHQMIIBzIEdai50
+b3RveUBzd2VldGFuZGNvZmZlZS5jb20uZWOgGwYLKwYBBAGC8TZmAwGgDAwKMDkwODY4MTg5M6Ag
+BgsrBgEEAYLxNmYDAqARDA9SSUNIQVJEIEFOVEhPTlmgFQYLKwYBBAGC8TZmAwOgBgwEUEVFVKAW
+BgsrBgEEAYLxNmYDBKAHDAVMQVJHRaAgBgsrBgEEAYLxNmYDBaARDA9HRVJFTlRFIEdFTkVSQUyg
+SgYLKwYBBAGC8TZmAwegOww5Q0FMTEU6IENBUkxPUyBKVUxJTyBBUk9TRU1FTkEgTk1FUk86IFNP
+TEFSIDQzIEtJTE1FVFJPOiAxoB8GCysGAQQBgvE2ZgMIoBAMDjAwNTkzOTM5MjUwOTg2oBoGCysG
+AQQBgvE2ZgMJoAsMCUdVQVlBUVVJTKAdBgsrBgEEAYLxNmYDCqAODAxEVUxDQUZFIFMuQS6gHgYL
+KwYBBAGC8TZmAwugDwwNMDk5MjEwNjg5MTAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6AkBgsrBgEE
+AYLxNmYDMqAVDBNSRVBSRVNFTlRBTlRFIExFR0FMoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8w
+DQYJKoZIhvcNAQELBQADggIBAGLQLDLyRHn/jeU+kZn3J2R7wvv+3l0RZYjDOtP0Udf94HYKcpQG
+NuTY0e5I6AlbnKozTkybYcHq6BJFtG+l4yFi/F1Cko4jMvYsb4j7YX3xpmpldZxwKodgcWP34lHX
+1ap6y8gIEaR1a+YkRBxhcasUaJVWLDYbEuHNcBpc+3BIF2QSpXrxkVOO25/xi+khoX6aB+8QOrWt
+se+ORNLdz2ywpLyCtv3Zw6++5xYHtpmAo/UG/RiJEC00u38Ksd6sByE0InT7TT6jyDb+0vmV9g3E
+XXQfzfwO8pP3eLNdpal0jjC2EQoPybLcP7r18yzeqNIFBANxJOF8B5DbMGXwtahayKe32CCYG5GY
+swMX5QG1uPK+/GqzXnAf4mpCEW+66Go76XhNCLEEHI7ELcnwxAUWKJFHxsofYLgYrtqtcL4IFRd/
+qbehyIbxolsSeLe6I6qyf72OLB9pMzNmdmNVo9tfpzIez0h44N8ZiX8bx/ka46YUG7oJyK4QvsIt
+kgRKEPtHHuVbg+aHTnO/6Rtla4fBiekSjdeRHT3pHujqmLK8Lq6zt9PvGMM4BCILTHgBEzbDvBVJ
+WcNaIWv6m3Pe0zs9tV5A99Z11Y+cor1m3OVZoT6tzXboxhQpaZRzBJrw8zfvkS9DsvnRYzgTrwJX
++pedEoIiOTcef0StxdUAgBoN
+&lt;/ds:X509Certificate&gt;
+&lt;/ds:X509Data&gt;
+&lt;ds:KeyValue&gt;
+&lt;ds:RSAKeyValue&gt;
+&lt;ds:Modulus&gt;
+u4PIM96LzKjSZ7vfdvYi1MrlMigWuTIr/mwExdDYSt03mGFCkxbXhu3RXIC/WuGTjwxvMxaSlqAk
+CgJWsArFGufIboPzEtqDbg5J4mZGVTBIuTIAfpm3jIBErg07SOjt4H+MlCwbkqo+guVLZZkP21kj
+sYJAN9L34C1X0j+fPQCVjBPhDW7rsACZAcuB2qSwUGVq6Uj4E5Z8seVU2wwX4Mo6jQzNZn0owm5o
+VJ84o3UB6VrQ3471JMkpgKvJO9EeLzKhMUlw+4iVg9Ec4al1+oNGPhxtOCbGpxrkWJm5xz0cpTVS
+hniDBTv2DdjFzCWWR2f7NybFgHAeTzNE4occuQ==
+&lt;/ds:Modulus&gt;
+&lt;ds:Exponent&gt;AQAB&lt;/ds:Exponent&gt;
+&lt;/ds:RSAKeyValue&gt;
+&lt;/ds:KeyValue&gt;
+&lt;/ds:KeyInfo&gt;
+&lt;ds:Object Id="Signature1024714-Object372814"&gt;&lt;etsi:QualifyingProperties Target="#Signature1024714"&gt;&lt;etsi:SignedProperties Id="Signature1024714-SignedProperties187792"&gt;&lt;etsi:SignedSignatureProperties&gt;&lt;etsi:SigningTime&gt;2025-05-12T16:06:21-05:00&lt;/etsi:SigningTime&gt;&lt;etsi:SigningCertificate&gt;&lt;etsi:Cert&gt;&lt;etsi:CertDigest&gt;&lt;ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/&gt;&lt;ds:DigestValue&gt;QIngVrVqEEmSTxpP1unVY5meH7w=&lt;/ds:DigestValue&gt;&lt;/etsi:CertDigest&gt;&lt;etsi:IssuerSerial&gt;&lt;ds:X509IssuerName&gt;2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES&lt;/ds:X509IssuerName&gt;&lt;ds:X509SerialNumber&gt;7240031062945643892&lt;/ds:X509SerialNumber&gt;&lt;/etsi:IssuerSerial&gt;&lt;/etsi:Cert&gt;&lt;/etsi:SigningCertificate&gt;&lt;/etsi:SignedSignatureProperties&gt;&lt;etsi:SignedDataObjectProperties&gt;&lt;etsi:DataObjectFormat ObjectReference="#Reference-ID-507119"&gt;&lt;etsi:Description&gt;comprobateFirma&lt;/etsi:Description&gt;&lt;etsi:MimeType&gt;text/xml&lt;/etsi:MimeType&gt;&lt;/etsi:DataObjectFormat&gt;&lt;/etsi:SignedDataObjectProperties&gt;&lt;/etsi:SignedProperties&gt;&lt;/etsi:QualifyingProperties&gt;&lt;/ds:Object&gt;&lt;/ds:Signature&gt;&lt;/factura&gt;</comprobante>
+    <mensajes/>
+</ns2:RespuestaAutorizacion>
